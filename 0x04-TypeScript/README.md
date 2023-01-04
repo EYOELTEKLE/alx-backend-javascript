@@ -1,1 +1,2 @@
-# typescript setup
+# alx-backend-javascript
+backend technologies -> Typescript
